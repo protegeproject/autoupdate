@@ -1,10 +1,10 @@
 
 // ***** CURRENT PLUG-INS (alphabetical ordering) *****
 
-// ACE views
+// ACE View
 http://attempto.ifi.uzh.ch/aceview/aceview.repository
 
-// CO-ODE (registry used to be http://www.co-ode.org/downloads/protege-x/plugins/co-ode.registry)
+// CO-ODE
 http://co-ode-owl-plugins.googlecode.com/svn/trunk/registries/4_1/registry-protege-4.2.txt
 
 // DL Query
@@ -13,32 +13,44 @@ https://raw.githubusercontent.com/protegeproject/dlquery/master/etc/update.prope
 // FaCT++
 http://factplusplus.googlecode.com/svn/trunk/update.properties.p4.1
 
-//Hermit Reasoner
+//HermiT
 http://www.hermit-reasoner.com/protege-4-1-beta-update/update.properties
 
-// OWL 2 Query
+// JDBC Preferences
+http://smi-protege/repos/protege/protege4/plugins/org.protege.osgi.jdbc.prefs/trunk/etc/update.properties
+
+// JDBC Storage Plugin
+http://smi-protege/repos/protege/protege4/plugins/org.protege.osgi.jdbc/trunk/etc/update.properties
+
+// OSGi Debugger
+http://smi-protege.stanford.edu/protege4/plugins/4.1/osgi.debugger-update.properties
+
+// OWL2Query
 http://krizik.felk.cvut.cz/km/owl2query/update.properties
 
-// OWL diff
+// OWLDiff
 http://krizik.felk.cvut.cz/km/owldiff/protege-update.properties
 
-//OWLDoc
+// OWLDoc
 http://smi-protege.stanford.edu/repos/protege/protege4/plugins/org.coode.owldoc/trunk/etc/update.properties
 
-// OWLLink
-http://owllink-owlapi.svn.sourceforge.net/viewvc/owllink-owlapi/owllinkapi-owlapi-3.1/trunk/owllinkprotege/src/main/java/update.properties
-
-// Pellet 2.2.0
+// Pellet
 http://clarkparsia.com/pellet/protege-4.1-beta/plugin/update.properties
 
 // Protege (some contributions from the Stanford-based team)
 http://smi-protege.stanford.edu/protege4/plugins/4.1/protege.registry
-http://smi-protege.stanford.edu/repos/protege/protege4/plugins/org.protege.editor.owl/trunk/etc/update.properties
-https://raw.github.com/protegeproject/autoupdate/master/snap-sparql-query/update.properties
 
 // Sadi Plugin
 http://sadi.googlecode.com/svn/trunk/sadi.protege/update.properties
 
+// Snap SPARQL Query
+https://raw.github.com/protegeproject/autoupdate/master/snap-sparql-query/update.properties
+
 // Snorocket Reasoner
 http://aehrc.com/software/snorocket/update-owlapi3.properties
+
+
+
+
+
 
