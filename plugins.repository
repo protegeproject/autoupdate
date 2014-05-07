@@ -1,0 +1,44 @@
+
+// ***** CURRENT PLUG-INS (alphabetical ordering) *****
+
+// ACE views
+http://attempto.ifi.uzh.ch/aceview/aceview.repository
+
+// CO-ODE (registry used to be http://www.co-ode.org/downloads/protege-x/plugins/co-ode.registry)
+http://co-ode-owl-plugins.googlecode.com/svn/trunk/registries/4_1/registry-protege-4.2.txt
+
+// DL Query
+https://raw.githubusercontent.com/protegeproject/dlquery/master/etc/update.properties
+
+// FaCT++
+http://factplusplus.googlecode.com/svn/trunk/update.properties.p4.1
+
+//Hermit Reasoner
+http://www.hermit-reasoner.com/protege-4-1-beta-update/update.properties
+
+// OWL 2 Query
+http://krizik.felk.cvut.cz/km/owl2query/update.properties
+
+// OWL diff
+http://krizik.felk.cvut.cz/km/owldiff/protege-update.properties
+
+//OWLDoc
+http://smi-protege.stanford.edu/repos/protege/protege4/plugins/org.coode.owldoc/trunk/etc/update.properties
+
+// OWLLink
+http://owllink-owlapi.svn.sourceforge.net/viewvc/owllink-owlapi/owllinkapi-owlapi-3.1/trunk/owllinkprotege/src/main/java/update.properties
+
+// Pellet 2.2.0
+http://clarkparsia.com/pellet/protege-4.1-beta/plugin/update.properties
+
+// Protege (some contributions from the Stanford-based team)
+http://smi-protege.stanford.edu/protege4/plugins/4.1/protege.registry
+http://smi-protege.stanford.edu/repos/protege/protege4/plugins/org.protege.editor.owl/trunk/etc/update.properties
+https://raw.github.com/protegeproject/autoupdate/master/snap-sparql-query/update.properties
+
+// Sadi Plugin
+http://sadi.googlecode.com/svn/trunk/sadi.protege/update.properties
+
+// Snorocket Reasoner
+http://aehrc.com/software/snorocket/update-owlapi3.properties
+
