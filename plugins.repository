@@ -8,7 +8,7 @@ http://attempto.ifi.uzh.ch/aceview/aceview.repository
 http://co-ode-owl-plugins.googlecode.com/svn/trunk/registries/4_1/registry-protege-4.2.txt
 
 // DL Query
-https://raw.githubusercontent.com/protegeproject/dlquery/master/etc/update.properties
+https://raw.githubusercontent.com/protegeproject/autoupdate/master/dlquery/update.properties
 
 // FaCT++
 http://factplusplus.googlecode.com/svn/trunk/update.properties.p4.1
