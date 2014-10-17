@@ -16,6 +16,9 @@ http://factplusplus.googlecode.com/svn/trunk/update.properties.p4.1
 // HermiT
 http://www.hermit-reasoner.com/protege-4-1-beta-update/update.properties
 
+// jcel
+http://jcel.sourceforge.net/update.properties
+
 // JDBC Preferences
 http://smi-protege/repos/protege/protege4/plugins/org.protege.osgi.jdbc.prefs/trunk/etc/update.properties
 
@@ -48,8 +51,6 @@ http://aehrc.com/software/snorocket/update-owlapi3.properties
 
 // UComp
 https://aic.ai.wu.ac.at/~wohlg/uComp_plugin/update.properties
-
-
 
 
 
