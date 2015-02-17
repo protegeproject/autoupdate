@@ -7,6 +7,10 @@ http://attempto.ifi.uzh.ch/aceview/aceview.repository
 // CO-ODE
 http://co-ode-owl-plugins.googlecode.com/svn/trunk/registries/4_1/registry-protege-4.2.txt
 
+// DL Learner
+
+https://raw.githubusercontent.com/AKSW/DL-Learner-Protege-Plugin/master/update.properties
+
 // DL Query
 https://raw.githubusercontent.com/protegeproject/autoupdate/master/dlquery/update.properties
 
