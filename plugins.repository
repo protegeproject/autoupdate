@@ -14,6 +14,9 @@ https://raw.githubusercontent.com/AKSW/DL-Learner-Protege-Plugin/master/update.p
 // DL Query
 https://raw.githubusercontent.com/protegeproject/autoupdate/master/dlquery/update.properties
 
+// Existential Query
+https://raw.githubusercontent.com/protegeproject/existentialquery/master/src/main/resources/update.properties
+
 // FaCT++
 http://factplusplus.googlecode.com/svn/trunk/update.properties.p4.1
 
@@ -55,6 +58,5 @@ http://aehrc.com/software/snorocket/update-owlapi3.properties
 
 // UComp
 https://aic.ai.wu.ac.at/~wohlg/uComp_plugin/update.properties
-
 
 
