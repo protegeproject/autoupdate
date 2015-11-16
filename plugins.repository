@@ -26,9 +26,6 @@ http://www.hermit-reasoner.com/protege-4-1-beta-update/update.properties
 // jcel
 http://jcel.sourceforge.net/update.properties
 
-// OSGi Debugger
-http://smi-protege.stanford.edu/protege4/plugins/4.1/osgi.debugger-update.properties
-
 // OWL2Query
 http://krizik.felk.cvut.cz/km/owl2query/update.properties
 
