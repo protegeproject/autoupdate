@@ -36,7 +36,7 @@ http://krizik.felk.cvut.cz/km/owldiff/protege-update.properties
 http://smi-protege.stanford.edu/repos/protege/protege4/plugins/org.coode.owldoc/trunk/etc/update.properties
 
 // Pellet
-http://clarkparsia.com/pellet/protege-4.1-beta/plugin/update.properties
+https://raw.githubusercontent.com/Complexible/pellet/master/protege/plugin/plugins.repository
 
 // Sadi Plugin
 http://sadi.googlecode.com/svn/trunk/sadi.protege/update.properties
