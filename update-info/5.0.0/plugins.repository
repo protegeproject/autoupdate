@@ -38,6 +38,9 @@ https://raw.githubusercontent.com/co-ode-owl-plugins/owldoc/master/update-info/p
 // OWLViz
 https://raw.githubusercontent.com/protegeproject/owlviz/owlviz-5.0.0/update-info/protege-5/update.properties
 
+// Cellfie
+https://raw.githubusercontent.com/protegeproject/cellfie-plugin/master/update-info/protege-5/update.properties
+
 // Pellet
 https://raw.githubusercontent.com/Complexible/pellet/master/protege/plugin/plugins.repository
 
