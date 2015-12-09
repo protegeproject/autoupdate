@@ -12,7 +12,7 @@ http://co-ode-owl-plugins.googlecode.com/svn/trunk/registries/4_1/registry-prote
 https://raw.githubusercontent.com/AKSW/DL-Learner-Protege-Plugin/master/update.properties
 
 // DL Query
-https://raw.githubusercontent.com/protegeproject/dlquery/master/src/main/resources/update.properties
+https://raw.githubusercontent.com/protegeproject/dlquery/master/update-info/protege-5/update.properties
 
 // Existential Query
 https://raw.githubusercontent.com/protegeproject/existentialquery/master/src/main/resources/update.properties
