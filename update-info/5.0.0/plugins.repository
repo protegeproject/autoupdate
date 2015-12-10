@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/protegeproject/dlquery/master/update-info/prot
 //https://raw.githubusercontent.com/protegeproject/existentialquery/master/src/main/resources/update.properties
 
 // FaCT++
-http://factplusplus.googlecode.com/svn/trunk/update.properties.p4.1
+https://bitbucket.org/dtsarkov/factplusplus/downloads/config.autoupdate.Protege-5.0.txt
 
 // HermiT
 //http://www.hermit-reasoner.com/protege-4-1-beta-update/update.properties
