@@ -58,6 +58,9 @@ https://raw.githubusercontent.com/Complexible/pellet/master/protege/plugin/plugi
 // Snorocket Reasoner
 //http://aehrc.com/software/snorocket/update-owlapi3.properties
 
+// SPARQL Query
+https://raw.githubusercontent.com/protegeproject/sparql-query-plugin/master/update-info/protege-5/update.properties
+
 // UComp
 //https://aic.ai.wu.ac.at/~wohlg/uComp_plugin/update.properties
 
