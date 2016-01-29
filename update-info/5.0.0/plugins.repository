@@ -56,7 +56,7 @@ https://raw.githubusercontent.com/Complexible/pellet/master/protege/plugin/plugi
 //http://sadi.googlecode.com/svn/trunk/sadi.protege/update.properties
 
 // Snap SPARQL Query
-https://raw.github.com/protegeproject/autoupdate/master/snap-sparql-query/update-info/5.0.0/update.properties
+https://raw.githubusercontent.com/protegeproject/autoupdate/master/snap-sparql-query/update-info/protege-5/update.properties
 
 // Snorocket Reasoner
 //http://aehrc.com/software/snorocket/update-owlapi3.properties
