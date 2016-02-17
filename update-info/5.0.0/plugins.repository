@@ -28,9 +28,6 @@ https://bitbucket.org/dtsarkov/factplusplus/downloads/config.autoupdate.Protege-
 // HermiT
 //http://www.hermit-reasoner.com/protege-4-1-beta-update/update.properties
 
-// jcel
-http://jcel.sourceforge.net/update.properties
-
 // OntoGraf
 https://raw.githubusercontent.com/protegeproject/ontograf/master/update-info/protege-5/update.properties
 
