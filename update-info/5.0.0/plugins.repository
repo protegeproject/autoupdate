@@ -37,6 +37,9 @@ https://github.com/ontop/ontop/raw/master/ontop-protege/update.properties
 // OWL2Query
 //http://krizik.felk.cvut.cz/km/owl2query/update.properties
 
+// OWLAPI RDF Library
+https://raw.githubusercontent.com/protegeproject/rdf-library/master/update-info/protege-5/update.properties
+
 // OWLDiff
 //http://krizik.felk.cvut.cz/km/owldiff/protege-update.properties
 
@@ -62,7 +65,7 @@ https://raw.githubusercontent.com/protegeproject/autoupdate/master/snap-sparql-q
 //http://aehrc.com/software/snorocket/update-owlapi3.properties
 
 // SPARQL Query
-https://raw.githubusercontent.com/protegeproject/sparql-query-plugin/master/update-info/protege-5/sparql-plugin.txt
+https://raw.githubusercontent.com/protegeproject/sparql-query-plugin/master/update-info/protege-5/update.properties
 
 // SWRLTab plugin
 https://raw.githubusercontent.com/protegeproject/swrltab-plugin/master/update-info/protege-5/update.properties
