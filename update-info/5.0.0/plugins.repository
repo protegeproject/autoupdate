@@ -10,6 +10,9 @@ https://raw.githubusercontent.com/protegeproject/cellfie-plugin/master/update-in
 // CO-ODE Change Tracker
 https://raw.githubusercontent.com/co-ode-owl-plugins/change-tracker/master/update-info/protege-5/update.properties
 
+// CSV Export Plugin
+https://raw.githubusercontent.com/protegeproject/csv-export-plugin/master/src/main/resources/update.properties
+
 // DL Learner
 //https://raw.githubusercontent.com/AKSW/DL-Learner-Protege-Plugin/master/update.properties
 
