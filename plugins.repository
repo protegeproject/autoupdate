@@ -26,6 +26,9 @@ http://www.hermit-reasoner.com/protege-4-1-beta-update/update.properties
 // jcel
 http://jcel.sourceforge.net/update.properties
 
+//OBO Annotations Editor
+https://raw.githubusercontent.com/owlcollab/protege-obo-plugin/master/update.properties
+
 // OWL2Query
 http://krizik.felk.cvut.cz/km/owl2query/update.properties
 
