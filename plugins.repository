@@ -29,6 +29,9 @@ http://jcel.sourceforge.net/update.properties
 //OBO Annotations Editor
 https://raw.githubusercontent.com/owlcollab/protege-obo-plugin/master/update.properties
 
+//OOPS! Evaluator
+https://raw.githubusercontent.com/lukasged/oops-plugin/master/update.properties
+
 // OWL2Query
 http://krizik.felk.cvut.cz/km/owl2query/update.properties
 
