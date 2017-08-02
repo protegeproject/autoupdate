@@ -43,6 +43,9 @@ https://raw.githubusercontent.com/protegeproject/ontograf/master/update-info/pro
 // Ontology Debugger
 http://isbi.aau.at/ontodebug/update.properties
 
+// OWL Hierarchy
+http://kbss.felk.cvut.cz/tools/owlhierarchy/update.properties
+
 // Ontop
 https://github.com/ontop/ontop/raw/master/ontop-protege/update.properties
 
