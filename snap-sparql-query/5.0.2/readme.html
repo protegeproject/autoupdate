@@ -1,0 +1,66 @@
+<html>
+<body>
+<h2>Snap SPARQL Query</h2>
+
+<p>A plug-in for querying ontologies with SPARQL-DL.  This plug-in was developed for 
+tutorial purposes as part of the <a href="http://protege.stanford.edu/short-courses.php">Protege Short Course</a> series.  
+We make no quality guarantees regarding use in production environments.
+
+<h3>Version info</h3>
+
+<h4>v1.0.0 (17th Mar 2014)</h4>
+<ul>
+  <li>Initial release</li>
+  <li>Autoupdate activated</li>
+</ul>
+
+<h4>v2.0.0 (26th Mar 2015)</h4>
+<ul>
+  <li>Implementation of some builtins</li>
+</ul>
+
+<h4>v3.0.0 (28th Sep 2015)</h4>
+<ul>
+  <li>Implemented more builtins</li>
+  <li>Queries involving Optional are now supported</li>
+  <li>Aggregate queries are now supported</li>
+  <li>Construct queries are now supported</li>
+</ul>
+
+<h5>v4.0.0 (20th Jan 2016)</h5>
+<ul>
+	<li>Upgraded to OWL API version 4.1.3</li>
+</ul>	
+
+<h5>v4.1.0 (18th Mar 2016)</h5>
+<ul>
+	<li>Fixed rendering and highlighting problems that could occur on Windows</li>
+	<li>Added a sample query on startup</li>
+</ul>	
+
+<h5>v4.2.0 (30th Nov 2016)</h5>
+<ul>
+	<li>Fixed a problem that could result in an empty error message being displayed if there was no reasoner selected.</li>
+	<li>Fixed a problem with using untyped variables in a CONSTRUCT graph
+		pattern</li>
+	<li>Added a custom builtin call named SPLITCAMEL that will split a camel case string into a string with separate words</li>
+</ul>
+
+<h5>v5.0.0 (31st Oct 2017)</h5>
+<ul>
+	<li>Optimsed graph pattern matching especially for annotations</li>
+	<li>Implemented MD5, built in call</li>
+	<li>Several bug fixes</li>
+	<li>Fixed problems with DateTime built in calls</li>
+	<li>Arguments to built in calls are no longer implicitly cast</li>
+	<li>Added casting function support</li>
+</ul>
+
+<h5>v5.0.1 (13th Nov 2017)</h5>
+<ul>
+	<li>Fixed a bug with comparing RDF terms (IRIs, Blank Nodes and non-string or non-numeric literals) using '='</li>
+</ul>
+<h5>v5.0.2 (1st March 2017)</h5>
+	<li>Fixed a bug with refreshing on active ontology change</li>
+</body>
+</html>
