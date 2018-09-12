@@ -79,6 +79,9 @@ https://raw.githubusercontent.com/Complexible/pellet/master/protege/plugin/plugi
 // Snap SPARQL Query
 https://raw.githubusercontent.com/protegeproject/autoupdate/master/snap-sparql-query/update-info/protege-5/update.properties
 
+// Single Rule Evaluation (SRE) 
+https://raw.githubusercontent.com/KITE-Cloud/SRE/master/update.properties
+
 // Snorocket Reasoner
 //http://aehrc.com/software/snorocket/update-owlapi3.properties
 
