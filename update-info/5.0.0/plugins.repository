@@ -109,6 +109,9 @@ https://raw.githubusercontent.com/md-k-sarker/ROWL/master/update.properties
 //OBO Annotations Editor
 https://raw.githubusercontent.com/owlcollab/protege-obo-plugin/master/update.properties
 
+//OBO Taxon constraints plugin
+https://raw.githubusercontent.com/geneontology/protege-taxon-constraints/master/update.properties
+
 //OOPS! Evaluator
 //https://raw.githubusercontent.com/lukasged/oops-plugin/master/update.properties
 
