@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/protegeproject/csv-export-plugin/master/src/ma
 https://raw.githubusercontent.com/protegeproject/dlquery/master/update-info/protege-5/update.properties
 
 // ELK
-https://raw.githubusercontent.com/protegeproject/autoupdate/master/elk/0.5/update.properties
+https://raw.githubusercontent.com/protegeproject/autoupdate/master/elk/0.4.3/update.properties
 
 // Existential Query
 https://raw.githubusercontent.com/protegeproject/existentialquery/master/update-info/protege-5/update.properties
