@@ -59,7 +59,7 @@ http://isbi.aau.at/ontodebug/update.properties
 https://kbss.felk.cvut.cz/tools/owlhierarchy/update.properties
 
 // Ontop
-https://github.com/ontop/ontop/raw/master/client/protege/update.properties
+https://raw.githubusercontent.com/ontop/ontop/master/protege/plugin/update.properties
 
 // OWL2Query
 //http://krizik.felk.cvut.cz/km/owl2query/update.properties
