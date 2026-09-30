@@ -1,0 +1,24 @@
+name: Validate Protégé 6 plugin registry
+
+on:
+  pull_request:
+    paths:
+      - 'update-info/6.0.0/**'
+      - 'scripts/validate-protege-6-registry.sh'
+      - '.github/workflows/validate-protege-6-registry.yml'
+  push:
+    branches:
+      - master
+    paths:
+      - 'update-info/6.0.0/**'
+      - 'scripts/validate-protege-6-registry.sh'
+      - '.github/workflows/validate-protege-6-registry.yml'
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate registry entries and plugin bundles
+        run: ./scripts/validate-protege-6-registry.sh

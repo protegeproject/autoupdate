@@ -1,0 +1,5 @@
+// Protégé 6 plugins that have been released and tested with Protégé 6.
+
+https://raw.githubusercontent.com/protegeproject/autoupdate/master/update-info/6.0.0/dl-query.properties
+https://raw.githubusercontent.com/protegeproject/autoupdate/master/update-info/6.0.0/hermit.properties
+https://raw.githubusercontent.com/protegeproject/autoupdate/master/update-info/6.0.0/owlviz.properties
