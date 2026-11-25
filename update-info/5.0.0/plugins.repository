@@ -126,3 +126,6 @@ https://raw.githubusercontent.com/NJITSABOC/oaf-protege/OAFSummarizationPlugin/u
 
 // SHACL4Protege
 https://raw.githubusercontent.com/fekaputra/shacl-plugin/master/update-info/protege-5/update.properties
+
+// Kobayashi-MaRust Reasoner
+https://raw.githubusercontent.com/bio-ontology-research-group/kobayashi-marust/main/protege/update-info/protege-5/update.properties
