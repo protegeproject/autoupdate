@@ -1,6 +1,11 @@
 // Protégé 6 plugins that have been released and tested with Protégé 6.
 
 https://raw.githubusercontent.com/protegeproject/autoupdate/master/update-info/6.0.0/dl-query.properties
+https://raw.githubusercontent.com/protegeproject/autoupdate/master/update-info/6.0.0/explanation-workbench.properties
+https://raw.githubusercontent.com/protegeproject/autoupdate/master/update-info/6.0.0/existential-query.properties
 https://raw.githubusercontent.com/protegeproject/autoupdate/master/update-info/6.0.0/hermit.properties
 https://raw.githubusercontent.com/protegeproject/autoupdate/master/update-info/6.0.0/owlviz.properties
+https://raw.githubusercontent.com/protegeproject/autoupdate/master/update-info/6.0.0/rdf-library.properties
+https://raw.githubusercontent.com/protegeproject/autoupdate/master/update-info/6.0.0/sparql-query.properties
+https://raw.githubusercontent.com/protegeproject/autoupdate/master/update-info/6.0.0/ontograf.properties
 https://raw.githubusercontent.com/protegeproject/autoupdate/master/update-info/6.0.0/kobayashi-marust.properties
